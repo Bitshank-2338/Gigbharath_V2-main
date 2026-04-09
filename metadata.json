@@ -1,0 +1,7 @@
+{
+  "name": "GigBharat",
+  "description": "A next-generation freelance marketplace platform focused on verified talent scoring (TQ), team collaboration, and student opportunities in India.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
